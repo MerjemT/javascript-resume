@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -78,13 +78,13 @@
     <h1 class="section__heading">About me</h1> 
 
      <p>
-        <blockquote>
+ <blockquote>
             <i>Hi, my name is Merjem Talić. I am 21 years old, and I live in Kakanj. I finished primary school at <a href="https://www.facebook.com/pages/category/Personal-Blog/OS-Mula-Mustafa-Baseskija-Kakanj-395776910972280/">  O.Š."Mula Mustafa Bašeskija"</a> in<br> Kakanj. Then, when I was 14, I moved to Sarajevo. My dream was to study at <a href="https://medresasa.edu.ba/">Gazi Husrev-begova Medresa, for highschool.</a> I have <br>
                 spent four amazing years there. After that, I had to decide what I wanted to do with my life. Everyone knew that I was really interested <br> 
                 in coding and programming, so I decided to study software engineering at the <a href="https://www.ius.edu.ba/bs">International University of Sarajevo.</a> Now, I am a third<br>
                 year student, and in two years, I will become a <a href="https://en.wikipedia.org/wiki/Bachelor_of_Software_Engineering">Bachelor of Software engineering</a>, inshaAllah! </i>
                  
-        </blockquote>
+ </blockquote>
 
     </p> 
 
@@ -104,8 +104,8 @@
 <img src="./images/DSC_0559.jpg" id="firstClone" alt="">
 
 
-        </div>
-    </div>
+  </div>
+ </div>
     <button id="prevBtn">Prev</button>
     <button id="nextBtn">Next</button>
     <blockquote>
@@ -142,8 +142,7 @@
 
 </table>
 </div>
-</div>
-</div>
+
 <blockquote>     
      
 <h3> Skills </h3>
