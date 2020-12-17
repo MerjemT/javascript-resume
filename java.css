@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+:root {
+
+
+
+}
+
+ {
+margin:0;
+padding:0;
+box-sizing: border-box;
+
+
+
+}
+
+body{
+
+    font-family: 'IBM plex Sans', sans-serif;
+    background-color: rgb(191, 112, 112);
+}
+
+h1, h2, h3, h4, h5, h6 {
+margin: 0;
+line-height: 1;
+}
+
+.container{
+max-width: 1140px;
+margin: 0 auto;
+
+}
+
+nav {
+background-color: rgb(182, 132, 123);
+padding: 1.6rem 0;
+}
+
+nav .inner {
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+
+nav .inner .logo {
+text-transform: uppercase;
+color: rgb(191, 112, 112);
+font-size: 30px;
+letter-spacing: 1px;
+font-weight: 800;
+}
+
+section.profile {
+background-color: rgb(182, 132, 123);
+display: flex;
+align-items: center;
+padding: 3rem;
+margin-top:60px;
+clip-path: polygon(0 0, 100% 0, 100% 80%, 25% 100%, 0 80%);
+padding-bottom:6rem;
+}
+
+section.profile .left{
+align-items:center;
+
+}
+
+section.profile .right{
+flex:1;
+font-size: 3;
+align-items: right;
+
+}
+
+section.profile .left h2{
+    font: 24px;
+    font-weight: 600;
+    margin-bottom:1rem;
+
+}
+section.profile .left img{
+   width: 250;
+   height: 280;
+
+    
+
+}
+.images-container{
+width: 60%;
+margin: auto;
+overflow: hidden;
+}
+
+.images-slide{
+    display: flex;
+    width: 100%;
+    height: 500px;
+
+
+}
+
+
